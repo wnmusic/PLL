@@ -1,0 +1,32 @@
+# ##############################################################################
+
+# iCEcube PCF
+
+# Version:            2020.12.27943
+
+# File Generated:     Nov 13 2021 17:05:55
+
+# Family & Device:    iCE40HX1K
+
+# Package:            TQ144
+
+# ##############################################################################
+
+###IOSet List 5
+set_io clk_div_ref 114
+set_io clk_div_rf 113
+set_io clk_ref_12M 21
+set_io clk_rf 112
+set_io dbg[4]  115
+set_io dbg[3]  116
+set_io dbg[2]  117
+set_io dbg[1]  118
+set_io dbg[0]  119
+set_io spi_clk_i 9
+set_io spi_mosi 8
+set_io spi_ncs_i 4
+set_io led[0] 99
+set_io led[1] 98
+set_io led[2] 97
+set_io led[3] 96
+set_io led[4] 95
